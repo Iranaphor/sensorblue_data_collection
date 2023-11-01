@@ -1,0 +1,4 @@
+- name: sensorblue_data_collection_action_server
+  panes:
+  - rosrun sensorblue_data_collection sensorblue_action_server.py
+
